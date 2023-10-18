@@ -1,0 +1,30 @@
+Idéias 
+- Nedankinde spin off
+
+Premissa
+ - Undertale com forte influência de touhou e jojo 
+ - Fazer um jogo inspirado em meu primeiro projeto com temática de horror
+
+Objetivos
+ - Comemorar o halloween
+ - Compreender mais a fundo certas ferramentas
+ - Fazer uma trilha sonora completa
+ - Ver a minha evolução
+ - Relembrar meu primeiro projeto
+ - Me divertir um pouco
+
+Caracteristicas
+ - De cinco a dez minutos
+ - Feito na Love2D
+ - Lançar para a Scream jam 2023
+ - Usar elementos da VN
+ - Adicionar um pouco de juice
+ - Ter pelo menos um boss
+ - Pixel art
+
+Ferramentas
+ - VSCODE
+ - LOVE2D
+ - TILED (esse é um talvez)
+ - Soundtrap
+ - Alguma coisa para eu desenhar
