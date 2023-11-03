@@ -1,5 +1,4 @@
-Idéias 
-- Nedankinde spin off
+Nedankinde spin off
 
 Premissa
  - Undertale com forte influência de touhou e jojo 
@@ -16,11 +15,37 @@ Objetivos
 Caracteristicas
  - De cinco a dez minutos
  - Feito na Love2D
- - Lançar para a Scream jam 2023
+ - Lançar para a game off 2023
  - Usar elementos da VN
  - Adicionar um pouco de juice
  - Ter pelo menos um boss
  - Pixel art
+
+Ferramentas
+ - VSCODE
+ - LOVE2D
+ - TILED (esse é um talvez)
+ - Soundtrap
+ - Alguma coisa para eu desenhar
+
+Detetive
+ Premissa
+ - O jogo que eu tenho pensado no ulltimo ano 
+
+Objetivos
+ - Realizar um projeto grande
+ - Compreender mais a fundo certas ferramentas
+ - Fazer uma trilha sonora completa
+ - Ver a minha evolução
+ - Me divertir um pouco
+
+Caracteristicas
+ - 30 minutos
+ - Feito na Love2D
+ - Lançar para a game off 2023
+ - VN
+ - Adicionar um pouco de juice
+ - arte no esilo de pinturas infantis
 
 Ferramentas
  - VSCODE
